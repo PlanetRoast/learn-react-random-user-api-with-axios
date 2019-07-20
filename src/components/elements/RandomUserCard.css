@@ -8,10 +8,11 @@ body {
 	padding: 1rem;
 	padding-left: 100px;
 	margin-bottom: 0.5rem;
+	position: relative;
 }
 
 img {
 	position: absolute;
-	top: 1rem;
-	left: 1rem;
+	top: 0.5rem;
+	left: 0.5rem;
 }
